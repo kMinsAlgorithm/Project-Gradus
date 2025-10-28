@@ -2,7 +2,12 @@
 > *Ad Gradus — Toward the next step : from rolling machines to walking robots.*
 
 ---
+## 🧠 Vision
+> **Ad Gradus — Toward the next step in robotics.**  
+>  
+> Project Gradus goes beyond simple locomotion technology to capture the evolutionary journey toward robots that can balance and walk on their own.
 
+---
 ## 🧭 Overview
 **Project Gradus** is an open-source project that publishes various robots developed during my research journey.  
 It records each **“Gradus” (Latin for *step*)** in the transition  
@@ -40,13 +45,6 @@ and serves purely as a **research-driven journey to design, share, and learn thr
 | ② | **SwerveDriveRobot** | Omnidirectional high-mobility platform, currently being **redesigned for simpler fabrication** | *(Under Redesign)* |
 | ③ | **QuadrupedRobot** | Quadruped robot focused on mechanical stability | *(Coming Soon)* |
 | ④ | **BipedalRobot** | Bipedal robot for balance control and adaptive walking research | *(Coming Soon)* |
-
----
-
-## 🧠 Vision
-> **Ad Gradus — Toward the next step in robotics.**  
->  
-> Project Gradus goes beyond simple locomotion technology to capture the evolutionary journey toward robots that can balance and walk on their own.
 
 ---
 
