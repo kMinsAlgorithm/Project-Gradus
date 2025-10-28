@@ -56,5 +56,5 @@ All resources are freely available for research and educational use.
 ## 🧩 Contact
 - **Author:** Kim Mingyu  
 - **Affiliation:** Department of Applied Artificial Intelligence, Myongji University  
-- **E-mail:** [kminsalgorithm@gmail.com](mailto:k0136000@mju.ac.kr)  
+- **E-mail:** [k0136000@mju.ac.kr](mailto:k0136000@mju.ac.kr)  
 - **Portfolio:** [kminsalgorithm.github.io](https://kminsalgorithm.github.io)
