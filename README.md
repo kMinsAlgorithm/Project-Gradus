@@ -39,7 +39,7 @@ and serves purely as a **research-driven journey to design, share, and learn thr
 
 | Phase | Robot Name | Description | Repository |
 |:------:|------------|--------------|-------------|
-| ① | **DiffDriveRobot** | Basic two-wheel differential drive robot, currently being steadily updated| [🔗 Repository](https://github.com/kminsalgorithm/DiffDriveRobot) *(Released)* |
+| ① | **DiffDriveRobot** | Basic two-wheel differential drive robot, currently being **steadily updated**| [🔗 Repository](https://github.com/kminsalgorithm/DiffDriveRobot) *(Released)* |
 | ② | **SwerveDriveRobot** | Omnidirectional high-mobility platform, currently being **redesigned for simpler fabrication** | [🔗 Repository](https://github.com/kMinsAlgorithm/SwerveDriveRobot)*(Under Redesign)* |
 | ③ | **QuadrupedRobot** | *(Coming Soon)* | -- |
 | ④ | **BipedalRobot** | *(Coming Soon)* | -- |
