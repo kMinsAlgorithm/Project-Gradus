@@ -1,6 +1,5 @@
 # 🦾 Project Gradus  
 
----
 ## 🧠 Vision
 > **Ad Gradus — Toward the next step in robotics.**  
 >  
