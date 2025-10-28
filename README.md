@@ -1,5 +1,4 @@
 # 🦾 Project Gradus  
-> *Ad Gradus — Toward the next step : from rolling machines to walking robots.*
 
 ---
 ## 🧠 Vision
